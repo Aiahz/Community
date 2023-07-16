@@ -1,5 +1,10 @@
 # Community
 AI中文社区 $$$ 创业概念,商业趋势,模型搭建,机器人平台接入,变现讨论
+
+
+网址 https://www.aiahz.com
+社区 https://www.aiahz.com/community
+
 <!-- wp:image {"id":5177,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://www.aiahz.com/wp-content/uploads/2023/06/chatgptzhinengyingyongzhiboyugaoshoujihaibao-1-1024x212.jpg" alt="" class="wp-image-5177"/></figure>
 <!-- /wp:image -->
